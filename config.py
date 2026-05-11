@@ -3,4 +3,4 @@ OWNER_ID =1481689477851385959  # ← HIER DEINE DISCORD-ID EINTRAGEN
 
 # Bot-Token (aus dem Discord Developer Portal)
 # WICHTIG: Erstelle einen NEUEN Token, der alte ist kompromittiert!
-BOT_TOKEN = "MTUwMzQ2Mjg0MDIxNDc1MzM3MQ.G6Re2r.fO8Ry779rHp3tLLgmhBuv11qbet7VkqoWX5pKg"
+BOT_TOKEN = "MTUwMzQ2Mjg0MDIxNDc1MzM3MQ.Ga9TEv.oBvWAS9oPs2BCumpF76vjkCTox_PCXhHveElfg"
